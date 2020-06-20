@@ -1,0 +1,42 @@
+C:\Users\Usuario\Documents\SharpDevelop Projects\asd\asd\obj\Debug\asd.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\SharpDevelop Projects\asd\asd\obj\Debug\asd.MainForm.resources
+C:\Users\Usuario\Documents\SharpDevelop Projects\asd\asd\obj\Debug\asd.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\SharpDevelop Projects\asd\asd\bin\Debug\asd.exe
+C:\Users\Usuario\Documents\SharpDevelop Projects\asd\asd\bin\Debug\asd.pdb
+C:\Users\Usuario\Documents\SharpDevelop Projects\asd\asd\obj\Debug\asd.exe
+C:\Users\Usuario\Documents\SharpDevelop Projects\asd\asd\obj\Debug\asd.pdb
+C:\Users\EndUser\Downloads\Lexico\asd\asd\bin\Debug\asd.exe
+C:\Users\EndUser\Downloads\Lexico\asd\asd\bin\Debug\asd.pdb
+C:\Users\EndUser\Downloads\Lexico\asd\asd\obj\Debug\asd.csprojResolveAssemblyReference.cache
+C:\Users\EndUser\Downloads\Lexico\asd\asd\obj\Debug\asd.MainForm.resources
+C:\Users\EndUser\Downloads\Lexico\asd\asd\obj\Debug\asd.csproj.GenerateResource.Cache
+C:\Users\EndUser\Downloads\Lexico\asd\asd\obj\Debug\asd.exe
+C:\Users\EndUser\Downloads\Lexico\asd\asd\obj\Debug\asd.pdb
+C:\Users\EndUser\Desktop\Traductores II (Cat. , Sem.) - Armando\Lexico\asd\asd\obj\Debug\asd.csprojResolveAssemblyReference.cache
+C:\Users\EndUser\Desktop\Traductores II (Cat. , Sem.) - Armando\Lexico\asd\asd\obj\Debug\asd.MainForm.resources
+C:\Users\EndUser\Desktop\Traductores II (Cat. , Sem.) - Armando\Lexico\asd\asd\obj\Debug\asd.csproj.GenerateResource.Cache
+C:\Users\EndUser\Desktop\Traductores II (Cat. , Sem.) - Armando\Lexico\asd\asd\obj\Debug\asd.exe
+C:\Users\EndUser\Desktop\Traductores II (Cat. , Sem.) - Armando\Lexico\asd\asd\bin\Debug\asd.exe
+C:\Users\EndUser\Desktop\Traductores II (Cat. , Sem.) - Armando\Lexico\asd\asd\bin\Debug\asd.pdb
+C:\Users\EndUser\Desktop\Traductores II (Cat. , Sem.) - Armando\Lexico\asd\asd\obj\Debug\asd.pdb
+C:\Users\EndUser\Desktop\Traductores II (Cat. , Sem.) - Armando\Sintactico\Sintactico\asd\asd\bin\Debug\asd.exe
+C:\Users\EndUser\Desktop\Traductores II (Cat. , Sem.) - Armando\Sintactico\Sintactico\asd\asd\bin\Debug\asd.pdb
+C:\Users\EndUser\Desktop\Traductores II (Cat. , Sem.) - Armando\Sintactico\Sintactico\asd\asd\obj\Debug\asd.csprojResolveAssemblyReference.cache
+C:\Users\EndUser\Desktop\Traductores II (Cat. , Sem.) - Armando\Sintactico\Sintactico\asd\asd\obj\Debug\asd.MainForm.resources
+C:\Users\EndUser\Desktop\Traductores II (Cat. , Sem.) - Armando\Sintactico\Sintactico\asd\asd\obj\Debug\asd.csproj.GenerateResource.Cache
+C:\Users\EndUser\Desktop\Traductores II (Cat. , Sem.) - Armando\Sintactico\Sintactico\asd\asd\obj\Debug\asd.exe
+C:\Users\EndUser\Desktop\Traductores II (Cat. , Sem.) - Armando\Sintactico\Sintactico\asd\asd\obj\Debug\asd.pdb
+C:\Users\EndUser\Desktop\Traductores II (Cat. , Sem.) - Armando\Semantico\asd\bin\Debug\asd.exe
+C:\Users\EndUser\Desktop\Traductores II (Cat. , Sem.) - Armando\Semantico\asd\bin\Debug\asd.pdb
+C:\Users\EndUser\Desktop\Traductores II (Cat. , Sem.) - Armando\Semantico\asd\obj\Debug\asd.csprojResolveAssemblyReference.cache
+C:\Users\EndUser\Desktop\Traductores II (Cat. , Sem.) - Armando\Semantico\asd\obj\Debug\asd.MainForm.resources
+C:\Users\EndUser\Desktop\Traductores II (Cat. , Sem.) - Armando\Semantico\asd\obj\Debug\asd.csproj.GenerateResource.Cache
+C:\Users\EndUser\Desktop\Traductores II (Cat. , Sem.) - Armando\Semantico\asd\obj\Debug\asd.exe
+C:\Users\EndUser\Desktop\Traductores II (Cat. , Sem.) - Armando\Semantico\asd\obj\Debug\asd.pdb
+C:\Users\Usuario\Desktop\Semantico\asd\bin\Debug\asd.exe
+C:\Users\Usuario\Desktop\Semantico\asd\bin\Debug\asd.pdb
+C:\Users\Usuario\Desktop\Semantico\asd\obj\Debug\asd.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Semantico\asd\obj\Debug\asd.MainForm.resources
+C:\Users\Usuario\Desktop\Semantico\asd\obj\Debug\asd.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Semantico\asd\obj\Debug\asd.exe
+C:\Users\Usuario\Desktop\Semantico\asd\obj\Debug\asd.pdb
